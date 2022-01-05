@@ -1,0 +1,65 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+#bld{
+    color: rgb(255, 51, 0);
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    background-color: powderblue;
+    border-radius: 5px;
+    width: 100%;
+  box-shadow: 5px 5px 40px grey;
+padding-top:20px ;
+padding-bottom:20px ; 
+}
+h2{color: red;
+    background-color: rgb(182, 255, 237);
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    border-radius: 2px;
+    margin-left: 60px;
+    margin-top: 20px;
+    padding: 5px 15px;
+}
+small{
+    color: purple;
+}
+.first{
+    width: 50%;
+}
+.first p{
+    text-align: justify;
+}
+.full{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.chobi{
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 3%;
+    
+    box-shadow: 5px 5px 40px grey;
+    border-radius: 10px;
+}
+.chobi p{color: mediumvioletred;
+    font-weight: 20px;
+    text-align: center;
+    font-family: cursive;
+}
+footer{
+    text-align: center;
+    padding-top: 65px;
+}
